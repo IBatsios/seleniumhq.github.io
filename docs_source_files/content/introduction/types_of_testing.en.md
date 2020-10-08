@@ -22,7 +22,7 @@ which some people might also refer to.
 This type of testing is done to determine if a
 feature or system functions properly without issues. It checks
 the system at different levels to ensure that all scenarios
-are covered and that the system does _what's_ 
+are covered and that the system does _what it's_ 
 supposed to do. It's a verification activity that
 answers the question:
 >Are we building the product **_right?_**.
